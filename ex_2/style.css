@@ -1,0 +1,30 @@
+body {
+    color: #25343F;
+    background-color: #EAEFEF;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container{
+    margin: auto;
+    text-align: center;
+}
+
+.icons{
+    height: 40px;
+    width: 40px;
+}
+
+.card-box {
+    margin:0px 5px 5px 5px;
+    border: 1px solid #25343F;
+    background-color: #BFC9D1;
+    padding: 20px;
+    text-align: center;
+    width: 28%;
+    display: inline-block;
+    box-sizing: border-box;
+    min-width: 150px;
+}
+.card-box > p {
+    line-height: 1.5;
+}
