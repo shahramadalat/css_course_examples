@@ -1,0 +1,49 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.profile-card{
+    width: 80%;
+    max-width: 400px;
+    margin: auto;
+    margin-top: 25px;
+    background-color: #BFC9D1;
+    text-align: center;
+    padding: 35px;
+    border: 2px solid #25343F;
+    border-radius:20px ;
+    box-shadow: 5px 5px 0px #25343F;
+}
+
+.card-image{
+    width: 125px;
+    height: auto;
+    border: 2px solid black;
+    border-radius: 50%;
+}
+
+.card-title{
+    margin-top: 40px;
+    color: #25343F;
+}
+
+.card-subtitle{
+    color: #405d72;
+    font-size: 20px;
+    
+}
+
+.card-text{
+    line-height: 1.5;
+    color: #384c5a;
+    margin-bottom: 40px;
+}
+
+.card-btn:link, .card-btn:visited {
+    text-decoration: none;
+    background-color: #25343F;
+    padding: 10px;
+    color: white;
+    border-radius: 5px;
+    
+}
